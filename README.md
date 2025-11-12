@@ -15,5 +15,5 @@ Analyze sales trends, identify high-performing regions and products, and evaluat
 ---
 
 ## 📂 Files in this folder
-- **data.xlsx** → Sample dataset used in the dashboard.
-- **dashboard.pbix** → Power BI project file.
+- **PowerBI_Portfolio_Data_1000_Rows.xlsx** → Sample dataset used in the dashboard.
+- **Sales Report.pbix** → Power BI project file.
